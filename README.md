@@ -21,7 +21,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
 4.	Navigate to the ‘**GitHub**’ tab 
 
-  - Paste this URL [https://github.com/Sydney-Informatics-Hub/EDAinPy/tree/main](https://github.com/Sydney-Informatics-Hub/EDAinPy/tree/main) into the box provided for GitHub URLs. 
+  - Paste this URL [https://github.com/Sydney-Informatics-Hub/EDAinPy](https://github.com/Sydney-Informatics-Hub/EDAinPy) into the box provided for GitHub URLs. 
 
   - Click the search symbol. Additional information about the repository and paths will appear.
 
