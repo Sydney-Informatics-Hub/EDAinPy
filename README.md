@@ -27,7 +27,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
   - In the Path section, click on `notebooks/EDAinPy.ipybb` to open the notebook.
 
-  ![](fig/setup3.png)
+![](fig/setup3.png)
 
 Note: if you get pop ups that prompt you to give GitHub permissions, close the popup window and untick the option ‘*include private repos*’.
 
