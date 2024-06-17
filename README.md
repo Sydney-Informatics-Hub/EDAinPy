@@ -25,7 +25,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
   - Click the search symbol. Additional information about the repository and paths will appear.
 
-  - In the Path section, click on `EDAPy.ipybb` to open the notebook.
+  - In the Path section, click on `EDAPy.ipynb` to open the notebook.
 
 ![](fig/setup3.png)  
 
