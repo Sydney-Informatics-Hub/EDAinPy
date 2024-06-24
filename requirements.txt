@@ -1,0 +1,10 @@
+altair
+datascroller
+itables
+pyjanitor
+skimpy
+sweetviz
+upsetplot
+vegafusion-jupyter[embed]
+ydata-profiling
+
