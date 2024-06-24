@@ -1,4 +1,3 @@
-altair
 datascroller
 itables
 pyjanitor
