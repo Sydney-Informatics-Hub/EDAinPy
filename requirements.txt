@@ -4,6 +4,5 @@ pyjanitor
 skimpy
 sweetviz
 upsetplot
-vegafusion-jupyter[embed]
 ydata-profiling
 
